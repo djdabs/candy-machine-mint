@@ -67,7 +67,7 @@ This is a unix time stamp that configures when your mint will be open.
 REACT_APP_SOLANA_NETWORK=devnet
 ```
 
-This identifies the Solana network you want to connect to. Options are `devnet`, `testnet`, and `mainnet`.
+This identifies the Solana network you want to connect to. Options are `devnet`, `testnet`, and `mainnet-beta`.
 
 ```
 REACT_APP_SOLANA_RPC_HOST=https://explorer-api.devnet.solana.com
